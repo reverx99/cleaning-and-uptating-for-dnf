@@ -1,2 +1,1 @@
-# cleaning-and-uptating-for-dnf
-Quick clean and update script for dnf package manager.
+sudo bash cleaning-and-uptating-for-dnf.sh
